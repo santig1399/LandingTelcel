@@ -124,8 +124,9 @@ nav{
 
 .haze{
     margin-top: 2rem;
-    font-family: "Heaters";
+    font-family: "Heaters", sans-serif;
     line-height: 8px;
+    font-display: swap;
 }
 
 
